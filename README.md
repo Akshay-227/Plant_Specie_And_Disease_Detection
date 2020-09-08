@@ -15,7 +15,7 @@ Model testing accuracy is 81.8%.
 
 [Deep Learning Keras Model](https://www.kaggle.com/akshay224/major-project)
 
-⋅⋅* To Do. 
+* To Do. 
 1. Save your Keras Model as tensorflow lite format i.e .tflite as tf_liteModel.tflite
 2. Create a text file named plant_labels.txt and add your dataset's target classes line by line
 3. Paste both these files in app/src/main/assets directory
