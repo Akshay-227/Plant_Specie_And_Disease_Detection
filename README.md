@@ -13,7 +13,7 @@ Model testing accuracy is 81.8%.
 2. Using android application live image of plant leaf is taken and prediction is done as if plant is healty or infection with some disease.
 
 
-## [![Deep Learning Keras Model](<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>)](https://www.kaggle.com/akshay224/major-project)
+## [![Deep Learning Keras Model](https://drive.google.com/file/d/1XI4SQ7QTmdZKuM4nHEk2IB4uA9eo1MUY/view?usp=sharing)](https://www.kaggle.com/akshay224/major-project)
 
 * To Do. 
 1. Save your Keras Model as tensorflow lite format i.e .tflite as tf_liteModel.tflite
